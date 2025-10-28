@@ -1,5 +1,5 @@
-
 {
-  "name": "AI Chat Interface",
-  "description": "A sleek, mobile-first AI chat interface designed for seamless conversation. It features a minimalist, centered chat window with alternating message bubbles, set against a subtle, tech-inspired background. The design is fully responsive and focuses exclusively on the chat experience."
+  "name": "SnakeEngine.AI",
+  "description": "An all-in-one AI platform with tools for chat, image generation, video analysis, and more, presented in a modern and user-friendly interface.",
+  "requestFramePermissions": ["microphone"]
 }
